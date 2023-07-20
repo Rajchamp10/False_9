@@ -5,3 +5,9 @@
 .card:hover{
   transform: scale(1.07);
 }
+#logo{
+  transition: all 0.4s;
+}
+#logo:hover{
+  transform: scale(1.15);
+}
